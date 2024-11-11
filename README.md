@@ -1,4 +1,4 @@
-# AI-Internship
+# AI-Internship inxol technologies
 MACHINE LEARNING MODELS USED:
 
 • SVM (Support Vector Machine):
